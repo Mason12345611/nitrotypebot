@@ -8,7 +8,7 @@
 // @version          2.0
 // ==/UserScript==
 var wpm = 120;
-var accuracy = 100;
+var accuracy = 94;
 const sockets = [];
 const nativeWebSocket = window.WebSocket;
 window.WebSocket = function(...args){
